@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'laffayette_comic_proregular';
-    src: url('laffayette_comic_pro-webfont.woff2') format('woff2'),
-         url('laffayette_comic_pro-webfont.woff') format('woff');
+    src: url('https://github.com/Surialpha/fuentes/blob/master/laffayette_comic_pro-webfont.woff2?raw=true') format('woff2'),
+         url('https://github.com/Surialpha/fuentes/blob/master/laffayette_comic_pro-webfont.woff?raw=true') format('woff');
     font-weight: normal;
     font-style: normal;
 
